@@ -1,0 +1,12 @@
+Current Version Details - v4.7.48:
+
+Link: http://internal/docu/v4.7.48
+
+Old Version - v4.7.44
+New Version - v4.7.48
+
+What are new in Version v4.7.48
+
+New SAP updates -  <Link>
+New Software update for ShopFloor -  <Link>
+New Software Update for Reports   -  <Link>

@@ -1,0 +1,11 @@
+Your Plant Details
+
+Link: http://internal/docu/your_plant_details
+
+Data:
+
+Plant_Name: Hammerfest (HAF)
+Plant_Code : 0004
+SAP_Code   : 000A
+Configured systems: Vertical (0A01), Horizontal (0B02)
+
